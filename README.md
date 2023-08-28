@@ -2,7 +2,7 @@
 
 Esse é o projeto do desafio de Data Science do programa Lighthouse, que consiste em prever o crescimento do índice GDP de cada país nos 2024-2028 e comparar com os resultados do treino.
 
-O arquivo imf-dm-export-20230513.xls foi disponibilizado como a base de dados.
+O arquivo `imf-dm-export-20230513.xls` foi disponibilizado como a base de dados.
 
 ## Instalação
 
