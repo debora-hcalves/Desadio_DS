@@ -13,5 +13,5 @@ Instruções sobre como instalar o projeto:
 3. Configurar o ambiente virtual: `python -m venv venv` 
 4. Ativar o ambiente virtual: `source venv/bin/activate` (Linux/Mac) ou `venv\Scripts\activate` (Windows)
 5. Instalar dependências: `pip install requirements.txt`
-6. Abrir o arquivo: `desafio-ds` e seguir o passo-a-passo descrito lá.
+6. Abrir o arquivo: `desafio-ds.ipynb` e seguir o passo-a-passo descrito lá.
 
