@@ -1,17 +1,16 @@
-# Desafio DS
+# Forecast Global GDP Growth - Challenge
 
-Esse é o projeto do desafio de Data Science do programa Lighthouse, que consiste em prever o crescimento do índice GDP de cada país nos 2024-2028 e comparar com os resultados do treino.
+This is the Data Science challenge project for the Lighthouse program - Indicium, which involves predicting the GDP index growth of each country in the years 2024-2028 and comparing it with the training results.
 
-O arquivo `imf-dm-export-20230513.xls` foi disponibilizado como a base de dados.
+The file `imf-dm-export-20230513.xls` has been provided as the database.
 
-## Instalação
+## Installation
 
-Instruções sobre como instalar o projeto:
+Instructions on how to install the project:
 
-1. Clonar o repositório: `git clone https://github.com/debora-hcalves/Desadio_DS.git`
-2. Entrar no diretório: `cd Desafio_DS`
-3. Configurar o ambiente virtual: `python -m venv venv` 
-4. Ativar o ambiente virtual: `source venv/bin/activate` (Linux/Mac) ou `venv\Scripts\activate` (Windows)
-5. Instalar dependências: `pip install requirements.txt`
-6. Abrir o arquivo: `desafio-ds.ipynb` e seguir o passo-a-passo descrito lá.
-
+1. Clone the repository: `git clone https://github.com/debora-hcalves/Desadio_DS.git`
+2. Navigate to the directory: `cd Desafio_DS`
+3. Set up the virtual environment: `python -m venv venv` 
+4. Activate the virtual environment:`source venv/bin/activate` (Linux/Mac) or `venv\Scripts\activate` (Windows)
+5. Install dependencies: `pip install requirements.txt`
+6. Open the file: `desafio-ds.ipynb` and follow the step-by-step instructions provided there.
